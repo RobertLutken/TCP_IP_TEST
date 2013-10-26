@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketProgramming", "SocketProgramming\SocketProgramming.csproj", "{FDC32043-3FF8-4DF7-B699-CD9AFDAC1104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpEchoClient", "TcpEchoClient\TcpEchoClient.csproj", "{6180E88B-156A-40E7-8219-A5EC527E4C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPEchoClientGUI", "TCPEchoClientGUI\TCPEchoClientGUI.csproj", "{D54B197B-C6EB-48D0-8E97-F5B0E664F5B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpEchoServer", "TcpEchoServer\TcpEchoServer.csproj", "{B6884BA1-743A-4523-B455-374E9E2715E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server Connection Interface", "Server Connection Interface\Server Connection Interface.csproj", "{D5D68D5A-D705-4E55-AFD5-E0AED8F10498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountdownTimer", "CountdownTimer\CountdownTimer.csproj", "{F31B76DE-AA42-4149-89B6-9E36894ED9F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC32043-3FF8-4DF7-B699-CD9AFDAC1104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC32043-3FF8-4DF7-B699-CD9AFDAC1104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC32043-3FF8-4DF7-B699-CD9AFDAC1104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC32043-3FF8-4DF7-B699-CD9AFDAC1104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6180E88B-156A-40E7-8219-A5EC527E4C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6180E88B-156A-40E7-8219-A5EC527E4C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6180E88B-156A-40E7-8219-A5EC527E4C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6180E88B-156A-40E7-8219-A5EC527E4C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54B197B-C6EB-48D0-8E97-F5B0E664F5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54B197B-C6EB-48D0-8E97-F5B0E664F5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54B197B-C6EB-48D0-8E97-F5B0E664F5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54B197B-C6EB-48D0-8E97-F5B0E664F5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6884BA1-743A-4523-B455-374E9E2715E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6884BA1-743A-4523-B455-374E9E2715E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6884BA1-743A-4523-B455-374E9E2715E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6884BA1-743A-4523-B455-374E9E2715E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D68D5A-D705-4E55-AFD5-E0AED8F10498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D68D5A-D705-4E55-AFD5-E0AED8F10498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D68D5A-D705-4E55-AFD5-E0AED8F10498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D68D5A-D705-4E55-AFD5-E0AED8F10498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31B76DE-AA42-4149-89B6-9E36894ED9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31B76DE-AA42-4149-89B6-9E36894ED9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31B76DE-AA42-4149-89B6-9E36894ED9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31B76DE-AA42-4149-89B6-9E36894ED9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
